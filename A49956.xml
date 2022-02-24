@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This most deplorable case of an antient citizen who hath been an old, honest, and faithful servant of, and very great sufferer for the interest of the city of London, is most humbly desired to be read over by all good citizens with great care, seriousness, and due consideration.</title>
+            <author>Lee, Richard, fl. 1639-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49956</idno>
+            <idno type="STC">Wing L889A</idno>
+            <idno type="STC">ESTC R43367</idno>
+            <idno type="EEBO-CITATION">27302676</idno>
+            <idno type="OCLC">ocm 27302676</idno>
+            <idno type="VID">110071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110071)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1724:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This most deplorable case of an antient citizen who hath been an old, honest, and faithful servant of, and very great sufferer for the interest of the city of London, is most humbly desired to be read over by all good citizens with great care, seriousness, and due consideration.</title>
+                  <author>Lee, Richard, fl. 1639-1678.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Lee by Wing.</note>
+                  <note>Imperfect: cropped with loss of text.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lee, Richard, fl. 1639-1678.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110071:1"/>
+            <pb facs="tcp:110071:1"/>
+            <p>THIS MOST Deplorable CASE Of an Antient CITIZEN VVHO Hath been an Old Honeſt, and faithful Servant of, and very great Suf<g ref="char:EOLhyphen"/>ferer for the Intereſt of the City of <hi>LON<g ref="char:EOLhyphen"/>DON,</hi> is moſt Humbly deſired to be Read over by all good Citizens with great Care, Seriouſneſs, and due Conſideration.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110071:2"/>
+            <pb n="3" facs="tcp:110071:2"/>
+            <div type="part">
+               <head>To the Right Honorable Sir <hi>Francis Chaplin</hi> Knight, Lord Mayor, and to the Right Worſhipful the Aldermen, Common Council, Maſters, Wardens, Aſſiſtants, and Liveries of all the ſeveral Companies of the City of <hi>London.</hi>
+               </head>
+               <head type="sub">The Caſe and Humble Remonſtrances of <hi>Richard Lee</hi> Citizen and Fiſhmonger of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who hath been of the Livery of that Company near 30 years, Aged 56 years; having had 17 Children.</head>
+               <opener>
+                  <salute>Humbly ſhewing:</salute>
+               </opener>
+               <p>THat 40 years agoe he came to <hi>London,</hi> and ſerv'd his Unkle Mr. <hi>John Lee</hi> (Deputy to the Town-Clerk of <hi>London,</hi> and Clerk of <hi>Fiſhmongers-Hall, Bridewel,</hi> and <hi>Bethlem</hi>) 8 years; and about 1648. he was admitted Clerk Comptroller of the Bridge-houſe <hi>London,</hi> wherein he ſerv'd about Nine years, till for the Cauſes hereafter mentioned in the year 1657 he left and ſurrendred the ſame Place: Alſo he ſerved as Clerk and Aſſociate to the Clerk of Aſſizes of the home Circuit many years, till for hopes of better Preferment, he alſo left that Place; whereof being diſappointed, having no Imployment, a great charge of Children to maintain, being willing to be improving what he had, and to be doing what he could for the maintenance of him, his wife and many ſmall children, he took a Brew-houſe, and followed the Brewing Trade from 1657 till 1667 with very unhappy ſucceſs, Malt; Coles, and Hops being all generally in thoſe years very dear; and the dreadful and con<g ref="char:EOLhyphen"/>tagious Sickneſs and Fire alſo fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng very heavy upon him, whereby and by very ma<g ref="char:EOLhyphen"/>ny great Loſſes and croſſes he ſuſteined, by bad Cuſtomers and deſperate Debts, and other ways, by the ſucceſſion and concurrency of all which ſeveral croſs Providences, he ſuffered ſo greatly, that he was diſabled longer to carry on his ſaid Trade; but in 1667 was forced to leave off, and ſell his Brew-houſe and all Appurtenances for 530 <hi>l.</hi> which coſt him 1600 <hi>lib.</hi> in Purchaſing, Building, and Planting, his real Loſſes by his ſaid ſeveral ſore Sufferings amounting to above 5000 <hi>lib.</hi> And after he had left off his ſaid Trade, with ſo great loſs, he uſed all means he could to get into ſome certain and ſetled Imployment for their Maintenance, but could meet with none; ſo that ever ſince 1667 he hath acted only as a Sollicitor, whereby (having been other ways imploy'd ma<g ref="char:EOLhyphen"/>ny years as aforeſaid) he hath found but little benefit for their Maintenance, wherefore he is ſtill neceſſitated to ſeek for a certain and ſetled imployment; and hearing that both the Bridge-Maſters of <hi>London</hi> Bridge are lately dead, and their Places void, whereby he hopes, that a good Door of hope (by Providence) is opened for his comfort, after all his ſore diſconſolations, he having many great Reaſons, and good ground of hopes, for the moſt conſiderable weighty cauſes herein mentioned and made known, not doubt<g ref="char:EOLhyphen"/>ing but they will take deep impreſſions in the hearts of all good Citizens, and move them to take ſpecial cognizance, conſideration, and commiſeration thereof in favor to him and his: Therefore he is imbolden'd to become an humble Suitor, that he may be freely choſen and admitted a Bridge-Maſter into one of their Places.</p>
+               <pb n="4" facs="tcp:110071:3"/>
+               <p>
+                  <hi>Reaſon</hi> 1ſt. Becauſe when he was admitted into the Clerkſhip of the Bridge-houſe one Mr. <hi>White</hi> who had for ſeveral years been Clerk to the Committees of the City, whereby he had great Acquaintance and favour with many of the then Aldermen, he be<g ref="char:EOLhyphen"/>ing a Suitor alſo and Competitor with the ſaid <hi>Richard Lee</hi> for the Place, was maliti<g ref="char:EOLhyphen"/>ouſly invective againſt him, becauſe he had carried the Place from him, which malice he did bear and purſue againſt him nine years together irreconcileably, and did cloſely work with ſeveral of the Aldermen his Friends, and tried all Projects they could, to get the ſaid <hi>Richard Lee</hi> out, and put the ſaid Mr. <hi>White</hi> in, which to effect, they inform<g ref="char:EOLhyphen"/>ed the Court of Aldermen that the ſaid Clerkſhip was much more profitable than indeed it was, whereby as they deſigned, they prevailed with the Court, to order the antient Sallery of 50 <hi>lib.</hi> a year, always paid to former Clerks there to be with-held from the ſaid <hi>Richard Lee,</hi> hoping thereby to diſcourage him, ſo that (without doubt) he would have declin'd and have accepted that barren Place (without the ſaid antient Sallery) as he would not, had he not been confident, it ſhould ſoon (in Right and Reaſon) have been reſtored again, then they might have uſher'd in their good friend Mr. <hi>White,</hi> to whom they could ſoon have reſtor'd the ſaid Sallery, though the ſame nor any part thereof for the cauſes herein mentioned, was ever paid to the ſaid <hi>Richard Lee</hi> during his ſtay there, to his great grief, dammage, and wrong. Notwithſtanding in 1639, the Rever<g ref="char:EOLhyphen"/>ſion of the ſaid Place, with all Fees, Profits, Commodities, and Appurtenances, <hi>&amp;c.</hi> was Purchaſed and Granted to him by the Court of Lord May or and Aldermen in the May<g ref="char:EOLhyphen"/>oralty of Sir <hi>Morris Abbot</hi> under the City Seal, and therefore by the Cuſtome and Uſage of this City, it was his juſt and undoubted Right, and ought not to be detein'd from him; and his Father did purpoſely at great Charges breed him up a Clerk to en<g ref="char:EOLhyphen"/>able, and make him fit for the execution of the ſaid Place, after the beſt manner, for Learning and Clerkſhip yet though often every year he continued there, he Petitioned the Court of Lord Mayor, Aldermen, and Common Council, for Reſtoration thereof with Certificates annexed under the hands of the Auditors of the Bridge-houſe Ac<g ref="char:EOLhyphen"/>compts, and of the Bridge-Maſters, who had the Propoſal and Inſpection of all Ac<g ref="char:EOLhyphen"/>compts, Books, Writings, and concerns there; and therefore were beſt able to Judge and Report of his care, labours, and fidelity in the Execution of his Duty therein, and of the ſmallneſs of his Profits, far ſhort of his Deſerts, not amounting to a competent Maintenance for him: Therefore certifying, that they thought fit and reaſonable the ſaid Sallery ſhould be paid to him from his Admittance and fully reſtored to him for the future: And the ſeveral Lord Mayors, Aldermen, Auditors, Committees, and ma<g ref="char:EOLhyphen"/>ny of the Common Council, often every year promiſed him, that it ſhould be reſtor'd and payd to him accordingly, though delayed and never perform'd to him during his ſtay there, who (as is well known, and was often acknowledged by many) did in his time there, as well perform his Duty in the Execution of his ſaid Place, and as good ſervice for the City, as any Clerk there ever did; and therefore deſerv'd the ſaid antient Salla<g ref="char:EOLhyphen"/>ry as any Clerk there ever did, and more eſpecially, it being his right by Purchaſe, and Grant under the City Seal as aforeſaid. And it hath been reſtored and conſtantly paid to all Clerks there almoſt ever ſince he was fore'd for want of a competent Maintenance,
+<pb n="5" facs="tcp:110071:3"/>and continual Abuſes and unkindneſſes, as herein are mentioned, (voluntarily to leave the ſaid Place, after he had ſerv'd the City therein carefully, faithfully, diligently, and induſtriouſly, about Nine Years, without any Sallary or Reward for his extraordinary Labors, which all Clerks there before, and ſince him ever had; but were ever (un<g ref="char:EOLhyphen"/>juſtly and undeſervedly) kept from him, only for the cauſes herein mentioned.</p>
+               <p>
+                  <hi>Reaſon</hi> 2. Becauſe at his firſt Admittance to the Place, he found many Accompts, Bills, Orders and Writings thereof long ſtanding, not made up or Entred, as they ought to have been (by his Predeceſſors there) and all Buſineſs very imperfect and greatly out of order, ſo that he was neceſſitated at his own charges, to hire a Clerk (at dear Rates) to ſit conſtantly with him above eight Months together, to make up, Enter, perfect, and put all things in good order; and alſo he and his ſaid Clerk took great pains above ſix Months together after, peruſing all the Leaſes and Writings there, and taking out Breviates of them, and making two great Books, of all the Tenants Names, Date. Rent, and term to come of every Leaſe, whereby (upon Demand he could readily give Accompt of every Leaſe, Tenant, and Houſe. Alſo he and his Clerk took a great deal of pains a long time together, in peruſing many long and great Writings, in much writing, and often carrying them, and attending with them upon Serjeant <hi>Maynard,</hi> Ser<g ref="char:EOLhyphen"/>jeant <hi>Conyers,</hi> Mr. <hi>Philips,</hi> and other Council for their advice thereon, concerning Sir <hi>George Monax</hi> his Lands, all which were extraordinary Labours for which he ought to have been paid; and the ſeveral Lord Mayors, Aldermen, and Committees, and ma<g ref="char:EOLhyphen"/>ny of the Common Council often promiſed every year, that he ſhould be well paid, though always delay'd, and he never received one penny for the ſame: Alſo Gratuities of 10 <hi>lib.</hi> and 5 <hi>lib.</hi> at a time were uſually given to his Predeceſſors Servants for their Labours, but never a Penny to any of his, by reaſon of Perſons ever obſtructing, as herein is mentioned.</p>
+               <p>
+                  <hi>Reaſon</hi> 3. Becauſe ſome time before his admittance to the ſaid place, a Leaſe wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> granted to Alderman <hi>Fowke,</hi> and another to <hi>Gilbert Keate</hi> 
+                  <abbr>Eſq</abbr> of Hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, Ware houſes, and Ground in <hi>Water-lane Tower-ſtreet,</hi> which did lie intricately intermixed with and between Ground and other great Buildings of their own, ſo that for long tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there had been great jars, conteſts, and continual complaints betwixt them, and many Views by the City Committees for ſettlemet thereof, to aſſertain both theirs and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cities Rights, by ſtrickt Admeaſurement of the Dimenſions, who did fairly and juſtly ſet down in writing, each Parties right exactly, ſtrictly ordering the Clerk of the Bridg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> houſe, ſo directly to expreſs the ſame in their ſeveral Leaſes, not otherwiſe, as the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were ſo done; yet notwithſtanding ſuch cares and endeavors and Orders of the Com<g ref="char:EOLunhyphen"/>mittees, upon many Views, though Alderman <hi>Fowk</hi> was preſent at the Views, and diſ<g ref="char:EOLunhyphen"/>ſented not, yet four or five years after his Leaſe was made, did twice or thrice, almo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> every week ſend for the ſaid <hi>Richard Lee</hi> to his Houſe, keeping him often there pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vately till paſt one of the Clock in the night, by all Arguments labouring with him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>race ſeveral whole Lines out of the Leaſe, and to write in the room thereof what he ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:110071:4"/>prepar'd in writing, which was greatly differing from the ſaid Orders of Court, great<g ref="char:EOLhyphen"/>ly to the indangering of the Cities Right, and promoting of continual Jars and Vexa<g ref="char:EOLhyphen"/>tions betwixt him and Mr. <hi>Keate;</hi> and for the firſt two years <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogether, did only uſe fair perſwaſions, to prevail to get it done to his wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l; whereby not prevailing he did for about three years more together after uſe very harſh and ſevere words and threats in a tyran<g ref="char:EOLhyphen"/>nical manner, to force him to do it, ſaying often to him, Mr. <hi>Lee,</hi> Do you not know that I was an Inſtrument to turn Mr. <hi>Mongre</hi> (your Predeceſſor) out of his place, whereby you got into his place; by which words implying, that if he would not do it, he would alſo work him out of his place: whereto he modeſtly Replyed, Sir, I hope that you, nor any elſe, ſhall find any ſuch cauſes to turn me out of my place, as (by Relation) were againſt Mr. <hi>Mongre:</hi> Alderman <hi>Fowke</hi> added further (and often uſed to hint the ſame words) <hi>Mr.</hi> Lee, <hi>You have a long time, and often Petitioned the court of Aldermen and Common-council to reſtore you to the antient Salary of</hi> 50 lib. <hi>a year, and to gratifie Your extraordinary Labour, which I think you deſerve, and its juſt and fit ſhould be done for you; Therefore conſider, Mr.</hi> Lee, <hi>be not averſe in what I require of you, who can ſoon help you in what you Petition for: Therefore Mr.</hi> Lee, <hi>be not perverſe to me, for what I deſire ſhall not be to the prejudice of the City.</hi> Whereto <hi>Richard Lee</hi> again re<g ref="char:EOLhyphen"/>plied, Sir, <hi>I hope you will not impute me averſe, or perverſe to you, or that I would in the leaſt offend you; or deny to ſerve you in any thing I juſtly may, Therefore I hope you will be ſo favourable and juſt, as to be friend me in my juſt Petition, which you have been pleas'd very often to ſay, it was juſt and fit to be granted to me; yet nevertheleſs, I hope that no ſelf-ends ſhall ever tempt me to act unfaithfully; and as for what you require me to do: It hath upon many Views and Orders of Court, been ſpecially Ordered to be done (word for word) as it is done, and not otherwiſe; ſo that if I ſhould privately alter it but a tit<g ref="char:EOLhyphen"/>tle, and ſeal the Leaſe, I ſhould be concluded very unfaithful and juſtly turn'd out of my Place for a Knave.</hi> And when Alderman <hi>Fowke</hi> found after about five years tryal by ſore tormenting and wearying of me, by all fair and foul means, and could not force me to do it, he having his Leaſe in his own hands, got it alter'd to his mind, and ſigned by two of the Committee (who were ignorant of the Alteration) then ſent for me, gave me his Leaſe, and order'd me the next day after (he being then Lord Mayor) to attend the Court of Aldermen, with his, and all other Leaſes, ready for ſealing, to be ſealed; I humbly p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay'd his Lordſhips excuſe, ſaying, I ought not, I durſt not offer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be ſeal'd, without firſt acquainting the Court with the ſaid alteration as I did o<g ref="char:EOLhyphen"/>penly and fully, which greatly inrag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d his Lordſhip; bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> though he was then Lord Mayor, yet could not get it ſeal'd.</p>
+               <p>
+                  <hi>Reaſon</hi> 4th. Becauſe about the year 1651, ſeveral Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rneymen, Carpenters, Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, Labourers, and other Wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kmen, then Servan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s belonging to the Bridge-houſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out of juſt, honeſt, and good Principles) did exhibite about 40 Articles againſt the Pur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eyor of the Bridge-houſe, for purloyning and carrying away by Water and Land from the Bridge-houſe and the buildings thereto belonging at ſeveral times, and con<g ref="char:EOLhyphen"/>certing to his own uſe, at his own Buildings then at <hi>Deptford</hi> and other places, great
+<pb n="7" facs="tcp:110071:4"/>quantities of Timber, Planks, Deal Boards ready plain'd, ſhot, and fitted for uſe, Stones, Lead, Iron, Spikes, Nayls, and all manner of Materials, which ſhould have been uſed at the Bridge-houſe Buildings, which were then credibly valued to be worth a<g ref="char:EOLhyphen"/>bove 600 <hi>lib.</hi> Sterling, to the great dammage of the City, whereby he, who few years before come to the Bridge-houſe very poor, was then by ſuch Practices become very rich: When the ſaid Articles were firſt exhibited, the poor Exhibitors thereof were greatly thanked, commended, and charged to go on to proſecute effectually by the Aldermen and Committee appointed to examine and hear the ſame; and it did go on proſperouſly, with great applauſe, and incouragement to the Proſecutors at ſeve<g ref="char:EOLhyphen"/>ral of their firſt meetings: But after the ſaid Purloyner, whoſe place there was to over<g ref="char:EOLhyphen"/>look the Workmen and Labourers, the Goods, Materials, and the Utenſils of the Houſe, and to warn all Courts and Committees, and to atiend and keep their Doors, whereby he had great opportunities to be well known to them, who knew well how to tell his own Tale, and by his ſubtle inſinuations to get credit and favour with them, and having got time, did ſo prevail with ſeveral of the Aldermen and Committee, to be ſtrongly on his ſide (being ignorant of his Devices and evil Practices) who did pervert moſt of the Committee, ſo that at many Meetings of the Committee after, the Tyde was ſo turn'd, that the poor Proſecutors (inſtead of being incouraged as before) were altogether curb'd, checkt, and diſcourag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d (only ſupported by ſome few) the poor men being ſo overaw'd, the work of Juſtice was at a ſtand, without hopes of future good, which made the Purloyner impudent and inſolent, greatly to vapour, inſult, and in his pufft-up pride and confidence to arreſt ſome of the poor Proſecutors for defaming him; and being ſo befriended, he was Cock-ſure thereby to have affrighted, and ſtopt further proceedings. And indeed they being poor (and ſo much diſcouraged by their Maſters, not only ſo deſerting them, and their Cities juſt cauſe, but by their ſo highly owning the Purloyner) they had reaſon to have declin'd, and had done had they not been honeſt and courageous, reſolving not to be conquered by his ſo impudent act<g ref="char:EOLhyphen"/>ings, nor by the checks of the Aldermen, Committe, Bridge-maſters, or any o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hers diſcouraging them, well knowing their cauſe to be ſo juſt and good: And they did come and adviſe with, and earneſtly intreat the ſaid <hi>Richard Lee</hi> to give them help in their juſt proſecution, elſe they ſaid (by their want of skill and knowledge) the Advers Party by their over-potency, would overpower them, who by his Oath being bound to be faithful in his place, in all things for the good of the City: Thereupon (though he well knew the potency of the Adverſe party, and the meanneſs and unlikelineſs of the poor Men (ſo mightily oppos'd) to prevail, let their cauſe be ever ſo juſt, yet the ſaid <hi>Richard Lee</hi> thinking it his Duty, what juſtly he could do, he ought to do therein; and did undertake with his might the management thereof, it being for the Cities Right; and to preſerve the poor men in their juſt cauſe (though ſo much oppos'd by thoſe who ought not to have done it) from being run down and ruin'd by them for their honeſty and faithfulneſs to the City their Maſters: And the ſaid <hi>Richard Lee,</hi> though greatly againſt his own intereſt, to act againſt the Purloyner (being ſo ſtrongly own'd by many of the Aldermen and Committee, and both the B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge-Maſters who were made Judge
+<pb n="8" facs="tcp:110071:5"/>in the caſe (he the ſaid <hi>Richard Lee</hi> then having his Petition and Certificates annexed, lying before the Court of Aldermen and Common Council for reſtoring to him his ſaid antient Salary of 50 <hi>lib.</hi> a year, and for gratifying his extraordinary Labours as afore<g ref="char:EOLhyphen"/>ſaid, yet the ſaid <hi>Richard Lee</hi> for the Cities good waved his own Intereſt, and did re<g ref="char:EOLhyphen"/>ſolvedly go on therewith, and drew up their Articles in a right form, and put all their Charge, and what every witneſs could ſay in good order, and then procur'd the Com<g ref="char:EOLhyphen"/>mittees to meet again ſeveral times, and to examine and hear the matter in difference, in order to do Right and Juſtice, and give Judgment, and did what poſſibly he could there<g ref="char:EOLhyphen"/>in; yet all would amount to nothing, the Purloyner being ſtill ſo own'd, and the poor men ſo curb'd, that the Purloyner grew ſo hardy, that ſhortly after he alſo arreſted the ſaid <hi>Richard Lee</hi> for defaming him (no other ways but in doing his Duty in the ſaid proſe<g ref="char:EOLhyphen"/>cution, as a ſworn Servant to the City) and did ſtoutly proſecute them all at the Aſſizes in <hi>Surry;</hi> and though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thought aſſuredly to have eaten up the poor men alive, he be<g ref="char:EOLhyphen"/>ing rich, and having many great perſons ſiding with him; and did uſe as great means as poſſibly he could, by appearance of Aldermen, Committee men, both the Bridge-Ma<g ref="char:EOLhyphen"/>ſters, divers of the Bridge-houſe chief Work-maſters and Servants, and the chiefeſt of the Learned Counſel in the Law, on his ſide, far beyond what the poor men were able to procure, yet the poor Defendants at the Tryal at the Aſſizes (notwithſtanding all diſad<g ref="char:EOLhyphen"/>vantages) did obtain a Verdict againſt the Plaintiffs: And indeed it was a very long and tedious Tryal, heard with great patience, and great reſpects to the many Great and Grave Men, who were on the Plaintiffs, or Purloyners ſide, yet the honeſt Jury, being upon their ſacred Oaths (better obſerv'd the good Scripture-Rules) had more reſpect to the truth of the Evidence, and juſtneſs of the Cauſe, than to the perſons of grave men, therefore juſtly and honeſtly found for the poor honeſt Defendants againſt the rich and highly mannag'd Plaintiffs, thirty or forty Witneſſes upon their Oaths on each ſide being fairly examined and heard; which Verdict given did greatly put to ſhame all the Great and Grave pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſons, and all others who ſo unjuſtly ſided with the Purloyner, and had ſo many years retarded Juſtice, who were in a ſhameful manner hiſſed out of the Court.</p>
+               <p>And after obtaining of the ſaid Verdict, the poor abuſed Defendants moſt juſtly ap<g ref="char:EOLhyphen"/>plied again to the Court of Aldermen and Committee, humbly certifying their ſaid Ver<g ref="char:EOLhyphen"/>dict, appealing for further Juſtice againſt the Purloyner; and upon very hard and cloſe purſuit thereof, for about half a year together after, prevail'd to have ſeveral re-exa<g ref="char:EOLhyphen"/>minations, and Rehearings, and Judgment upon the whole matter; whereupon they alſo (being ſoundly rous'd up for ſhame) found him Guil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and juſtly turn'd him out of his place, to the great ſhame (there alſo) of all, who had ſo long retarded (and would have perverted) Juſtice; which great conteſt hung in great pain and Travel for want of good Midwivery above three years and a half, almoſt to the utter ruine of the poor pro<g ref="char:EOLhyphen"/>ſecutors; the long forced proſecution whereof coſt them out of their own purſes above 100 <hi>lib.</hi> yet upon their humble and importunate petititoning the Court of Aldermen to allow them their Expences, and conſideration for their loſs of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine, by their Attendan<g ref="char:EOLhyphen"/>ces and good Services done to the City, they had but 30 <hi>lib.</hi> upon all theſe conſiderati<g ref="char:EOLhyphen"/>ons
+<pb n="9" facs="tcp:110071:5"/>given them, in full for all, to the clear loſs and dammage of the ſaid <hi>Richard Lee,</hi> above 60 <hi>lib.</hi> out of his own purſe, beſides his loſs of time above three years and half together, his Labour, Attendances, and doing all Writings concerning the ſaid long Proſecution, better worth then 50 <hi>lib,</hi> which good Works were greatly applauded and commended by many good Citizens, though they prov'd (undeſervedly) to the dam<g ref="char:EOLhyphen"/>mage and ruine of him the ſaid <hi>Richard Lee,</hi> his Wife, and many ſmall Children by his intermedling therewith; becauſe though often every year during his continuance at the Bridge-houſe, he Petitioned the Court of Aldermen and Common Council to re<g ref="char:EOLhyphen"/>ſtore to him the ſaid antient Sallary of 50 <hi>lib.</hi> a year juſtly due to him, and to reward his extraordinary Labours, as aforeſaid, with Certſficates to his Petitions annex'd un<g ref="char:EOLhyphen"/>der the Auditors and Bridge-Maſters hands, certifying his great Labours, care, and fi<g ref="char:EOLhyphen"/>delity in the execution of his Duty in his ſaid place, and of the ſmallneſs of his profits he received far ſhort of his Deſerts, not amounting to a competent Maintenance for him; Therefore they thought fit and reaſonable the ſaid 50 <hi>lib.</hi> a year ſhould be paid to him from his Admittance, and fully reſtor'd for the future: And the ſeveral Lord Mayors, Aldermen, Auditors, Committees, and many of the Common Council continu<g ref="char:EOLhyphen"/>ally every year, promiſed it ſhould be paid to him accordingly, and that he ſhould be gratified for his extraordinary Labours, yet they were ſtill delay'd and never performed to him during his ſtay there, though he well deſerv'd the ſame as aforeſaid; and the Reaſon why they were not perform'd to him was, becauſe the ſaid Mr. <hi>Whites</hi> Friends, the ſaid Alderman <hi>Fowke,</hi> and the Aldermen and Committee-men of the ſaid Advers Party always bore a grudge againſt him, only for his fidelity in ſpeaking and acting on the Cities behalf, as by his Oath he was bound to do in the management of the ſaid Caſes gaſnſt their wills and miſled Apprehenſions: Therefore they did oppoſe and obſtruct the Grant of all Petitions he ever could preſent for the ſame; Whereupon the ſaid <hi>Rich<g ref="char:EOLhyphen"/>ard Lee</hi> having ſerved the City as Clerk of the Bridge-houſe about Nine years, and up<g ref="char:EOLhyphen"/>on ſo long tryal finding his profits ſo ſmall, that he could not ſubſiſt thereby, but for the neceſſary ſupply of him and his Family was forc'd every year to waſte of his own Stock and grew every year worſe &amp; worſe in his Eſtate (not in the leaſt by improvident living) and alſo finding that by no means poſſible he could hope for the reſtoration of the ſaid Sallery of 50 <hi>lib.</hi> a year, nor gratification for his ſaid extraordinary Labours, by rea<g ref="char:EOLhyphen"/>ſon of the ſaid Parties continual oppoſing and obſtructing, for no other cauſes but for his fidelity to the City, in the Caſes mentioned; and that by reaſon of their (undeſer<g ref="char:EOLhyphen"/>ved) disfavour he could not continue in his Place with any peace, comfort, or content<g ref="char:EOLhyphen"/>ment, whoſe implacable Spirits and unjuſt dealings with him upon all opportunities, were unſufferable, did more grieve and trouble him (he never in the leaſt deſerving them) than the want of the ſaid 50 <hi>lib.</hi> a year, and gratifications ſo juſtly due to him, and by their means, ſo long, and ſo unjuſtly kept from him, as hereby evidently ap<g ref="char:EOLhyphen"/>pears, which were the true, ſole and only cauſes of his being forc'd (voluntarily) to leave and ſurrender his ſaid Place, and conſequently of all his ſaid ſore loſſes, croſſes, and ſufferings he unhappily underwent ſince by the Brewing Trade; to his dammage above 5000 <hi>lib.</hi> as aforeſaid, to the great ſpoyl and ruine of him, his Wife and many
+<pb n="8" facs="tcp:110071:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:110071:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:110071:7"/>Children: All which might have been well ſav'd and preſerv'd to the unſpeakable com<g ref="char:EOLhyphen"/>fort and happineſs of him and his, if thoſe irreconcilable Gentlemen (whoſe favour he ſought by all endeavors) had but been courteous, and not extremely ſevere to him, as they were (beyond meaſure) without any juſt or rational cauſe, otherwiſe he had in all probability continu'd ſtill at the Bridge-houſe, and ended his days there, and prevent<g ref="char:EOLhyphen"/>ed all his ſaid harms which thereafter happen'd to him and his, as aforeſaid, for whoſe honeſty and fidelity to the City (in doing his Duty as bound by his Oath) in the two laſt mentioned caſes, concerning which Caſes forty times-more may be ſaid (than herein is but hinted) to ſhew the unſavory actings (and how greatly the ſaid <hi>Richard Lee</hi> ſuf<g ref="char:EOLhyphen"/>fer'd) by both the ſaid Parties cruelty, for about Nine years together, during his whole time of his being at the Bridge-houſe, too tedious to be born, or here inſerted, ſuch a life as they led him ſo many years together, for no other cauſes but for doing his Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in thoſe two Caſes, as mentioned, he hereby profeſſeth, he would not be hir'd to undergo ſo many years for 500 <hi>lib.</hi> a year Sterling; in whoſe Coat they could never pick a hole, nor find a blot in his Scutcheon for which they watched; and ſought for as hid Treaſure, which if they could they would ſoon have hit it; for brevities ſake he'll add no more; here being enough ſet down, to declare how the City hath been greatly wron<g ref="char:EOLhyphen"/>ged by bad Servants, and how hardly ſuch brought to puniſhment, not by the Juſtice of their own appointed Judges, who rather indulg'd them, and diſcountenanced their honeſt Intelligencers (their Servants alſo) and ſuffer'd them to be in danger of ruine for their honeſty and fidelity to their Maſters; giving the Offendors ſuch indulgencie (through bewitched incredulity) and the contrary to the poor Complainants, who being poor, and diſown'd by their Maſters in their juſt complaint, the offenders (though guil<g ref="char:EOLhyphen"/>ty) being rich, and buoyed up, grew bold and impudat, ereſoved to play Counter-ſcuffle, to cudgel or Areſt the poor men for Defamation, as they did, thereby thinking to af<g ref="char:EOLhyphen"/>fright them from further proſecu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, ſtanding upon their Guard of Juſtification, plead<g ref="char:EOLhyphen"/>ing Innocency, therefore defam'd; by which Indulgency they took Rope, long enough to (hang, or) bring themſelves to juſt puniſhment, and whipt themſelves with their own Rod; the poor Arreſted Complainants would not be daunted (though poor, made De<g ref="char:EOLhyphen"/>fendants, forc'd to Trial, and unkindly diſown'd, and deſerted by their Maſters; but ra<g ref="char:EOLhyphen"/>ther than to bend baſely under the Offenders feet, though through poverty, want of great Friends, and with all diſadvantages, truſting to the Juſtice of the Cauſe, go on courageouſly to Tryal, not before known Friends or Citizens in the City, but before ſtrangers in the Country, where they obtain'd a juſt Verdict, with Victory and Tri<g ref="char:EOLhyphen"/>umph in three or four days time, which they could not do by their greateſt endeavors among their Maſters in the City, in above three years and a half proſecution (though for their own Intereſt) and almoſt to the utter ruine of the poor deſerted men; and this is a true Parallel of one of the ſaid Caſes: And if the poor mens Cauſe had not been honeſt, juſt and good, it was a Miracle they ſhould prevail at the Aſſizes in the Coun<g ref="char:EOLhyphen"/>try among ſtrangers (with ſuch diſadvantages) as they did to the ſhame of all the Op<g ref="char:EOLhyphen"/>poſers, Retarders, and Obſtructors: And that after that Tryal, the Citizens alſo upon further Applications made to them praying further Juſtice, had Re-examinations and
+<pb n="11" facs="tcp:110071:7"/>Rehearings, and gave their Judgments thereupon, and that then they alſo found the Offendor guilty, and turn'd him out of his Place: And though they did not pay the poor men their full Expences and Charges they were at, nor reward their Labours, loſs of Time, and Attendances, nor pay for the many Writings in and about the long retarded Proſecution, as they ought liberally to have done, conſidering their great fi<g ref="char:EOLhyphen"/>delity, and their great Abuſes, there being among them a ſpice of the ſaid Advers Party, who ſtill hindred all they could, yet in as much they gave them 30 <hi>lib</hi> towards the ſame, as aforeſaid, they thereby own'd their ſervice done, and their fidelity to the City; and it was no leſs ſtrange that the Citizens who were firſt made Judges in the Caſe (in the Cities behalf, having the ſame Teſtimony, and much better Advantage to ſearch out the Truth, yet in above three years and an halls time they could not find the Offendor guil<g ref="char:EOLhyphen"/>ty; which the poor Country Jury upon their Oaths did in ſix or ſeven hours time; and then ſoon after the Aldermen and Committee could alſo find him Guilty, and turn him out of his place, as aforeſaid, notwithſtanding the great oppoſition of the Advers Par<g ref="char:EOLhyphen"/>ty, who certainly were ſtrongly byaſſed, and ſtrangely perſwaded to act ſo ſtrongly and ſtrangely ſo many years as they did, againſt the great Intereſt of the City, and with ſuch violent and implacable wrath againſt the poor honeſt Proſecutors for the City, e<g ref="char:EOLhyphen"/>ven to their ſpoyl and ruine, it may be truly ſaid, they were very hardly uſed, and ſorrily rewarded from firſt to laſt, for their ſo long faithful and chargeable good Services, done for the City their Maſters, as aforeſaid: the good Scripture Caution may conveni<g ref="char:EOLhyphen"/>ently be here added, <hi>Let not theſe things be told in Gath nor publiſhed in Askelon;</hi> and for the ſaid <hi>Richard Lee</hi> his juſt, modeſt, and moderate managing, and defending the ſaid juſt and honeſt Cauſe, on the Cities behalf, as he was by the Aldermen and Com<g ref="char:EOLhyphen"/>mittee Order'd to do, and as by his Place, and Oath he ought to do, he did do and per<g ref="char:EOLhyphen"/>form the ſame honeſtly and faithfully, not as being forward or putting himſelf on there<g ref="char:EOLhyphen"/>in, but as being order'd as aforeſaid, yet for thoſe his faithful actings, by reaſon of the disfavour of the ſaid Advers Party, of the ſaid Alderman <hi>Fonke,</hi> and of the ſaid Aldermen, the ſaid Mr. <hi>Whites</hi> Friends, only for the cauſes mentioned: the ſaid <hi>Rich<g ref="char:EOLhyphen"/>ard Lee</hi> doth here affirm, that in the very time of his Nine years continuing Clerk of the Bridge-houſe, he clearly loſt and ſuffer'd out of his Purſe thereby above 1500 <hi>lib.</hi> Sterling, and of the truth hereof, and how he doubts not but to give fair and full ſatis<g ref="char:EOLhyphen"/>faction to any good Citizens; beſides the into Herable Abuſes and Injuries he undeſer<g ref="char:EOLhyphen"/>vedly (yet patiently) ſuffer'd the Nine years of his continuance at the Bridge-houſe from thoſe ſaid Parties, which he would not have indured for 500 <hi>lib.</hi> a year, as afore<g ref="char:EOLhyphen"/>ſaid, beſides the loſs of his ſaid Bridge-houſe Place, where he hoped to have ended his days, only occaſioned by their undeſerved unkindneſſes and hard uſages, and by their un<g ref="char:EOLhyphen"/>juſt obſtructing his Rights and juſt and reaſonable Maintenance from him as aforeſaid; and beſides his misfortunate and moſt unhappy ſore Sufferings afterwards by his Brew<g ref="char:EOLhyphen"/>ing Trade, conſequently alſo occaſioned only by their groſs abuſes, to his dammage above 5000 <hi>lib.</hi> as aforeſaid to the great ſpoyl and ruine of him his Wife and many Children; all which otherwiſe might have been well ſaved and preſerved to them, to their great comfort and happineſs.</p>
+               <pb n="12" facs="tcp:110071:8"/>
+               <p>All which matters, (with the matters in his ſeveral Certificates aſſerting truth) upon juſt, ſerious and judicious conſiderations, he humbly hopes will be adjudged good grounds and inducements to prevail, with all Right Honourable, Honourable, Right Worſhipful, and Worſhipful Citizens, and with all good Citizens, good men, and good Chriſtians (in tender conſideration of the Premiſſes) to have reſpect to him, who hath undergone ſuch long tryals, ſo many hard uſages, ſo many great Loſſes, croſſes and ſufferings (unjuſtly and undeſervedly) for his honeſt faithful and unrewarded ſervices for the Cities intereſt, even to the ſacrifiſing himſelf and all his, and is now deſtitute of imployment, and that you would favourably think fit (by your free Election) to ad<g ref="char:EOLhyphen"/>mit him into one of the ſaid Bridgemaſters places, rather to gratify (and raiſe from death to life) him who hath ſo juſtly, faithfully and induſtriouſly ſerved, ſo greatly ſuffered for; and ſo well deſerved from, the City than on any others, who have not ſuch cauſes, ſuch neceſſities, or ſuch deſerts, to merit the ſame from the City as he hath, as is here amply demonſtrated, hardly to be paralleld, who by his many years Experience by his ſervice as Clerke there, better knows and underſtands the Books, Writings, Records, Orders, Buſineſs and concerns of the Bridgehouſe, than any man living doth, and conſe<g ref="char:EOLhyphen"/>quently how to do, and act in all things there, for the beſt benefit of the City, and as for his care diligence, honeſty, and fidelity; to do and perform his duty in the manage<g ref="char:EOLhyphen"/>ment thereof, his former good and faithful ſervices there (well known and remembred by many yet living) will ſufficiently evidence.</p>
+               <p>Upon all which moving cauſes and conſiderations, he humbly hopes that the Right Honorable the Lord Mayor, the Right Worſhipful the Aldermen Common-councel and Liveries of this Honourable City of <hi>London,</hi> of your accuſtomed goodneſs, will fa<g ref="char:EOLhyphen"/>vourably think him fit and capable, and by your free Election of him to admit him into one of the ſaid Bridgemaſters places, who by God's gracious aſſiſtance will ever be moſt grateful, careful, diligent and faithful in the due Execution thereof, to the utmoſt of his ability for the Cities beſt benefit, or otherwiſe he humbly hopes that the Right Hono<g ref="char:EOLhyphen"/>rable the Lord Mayor, the Right Worſhipful the Aldermen and Common-Councel will be pleaſed to think fit, to Order the ſaid ancient Sallery of 50 l. a year, for about nine years ſervice, never paid unto him, as to all other Clerks there, before and ſince him, ſo juſtly due to him, and ſo hardly and unjuſtly kept from him as aforeſaid, to be paid un<g ref="char:EOLhyphen"/>to him, and reaſonable ſatisfaction for his ſaid extraordinary Labours, for moneys he disburſed out of his Purſe, and for all his Writings, Labours, and attendances for above three years and a half together, in and about the ſaid long Proſecution as aforeſaid, and ſome favourable recompence for his hard uſages and great ſufferings, for h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s good and faithful ſervices, done for the City as aforeſaid, which he humbly hopes will be adjudged juſt and reaſonable to be granted to him.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:110071:8"/>
+               <head>To the Right Hon<hi rend="sup">ble</hi> Sir <hi>Francis Chaplin</hi> Knight, Lord Mayor, and to the Right VVorſhip<g ref="char:EOLhyphen"/>ful the Aldermen, Maſters, VVardens, Aſſiſtants and Liveries of the ſeveral Com<g ref="char:EOLhyphen"/>panies of the Honorable City of <hi>London.</hi>
+               </head>
+               <p>WHereas my Brother Mr. <hi>Richard Lee,</hi> who lately ſerv'd the City as Clerk Comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roler of the Bridge-houſe <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> about nine years, where, as is well known to many, he did faithfully and induſtriouſly ſerve the City, and meerly for his good ſervices done there, and for his great fidelity in acting for the juſt Intereſt of the City, as by Orders of Court he was Ordered to do, and as by his ſaid Place and his Oath he was bound to do, againſt the wills and miſlead apprehenſions of ſome perſons, he became a very great ſufferer, to the ſpoyl and ruine thereby of him, his wife and many children, being now deſtitute of imployment for his and their maintenance, is forced to become a Suitor to your Honour, and Worſhips. That in conſideration of his ſaid faithful ſervices and great ſufferings, you would favourably chooſe and admit him a Bridgemaſter of <hi>London Bridge,</hi> into one of the pla<g ref="char:EOLhyphen"/>ces now void, whoſe fidelity and ability in ſerving as Clerk-Comptroler there nine years as aforeſaid, hath been largely manifeſted, which renders him fit, able, and capable for the Execution thereof, wherefore I being in<g ref="char:EOLhyphen"/>firm in body, unable to waite on you myſelf, to move your favours on hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> behalf, am bold hereby to recommend him unto your Choice as aforeſaid being well aſſured of his care, fidelity and good ability in all reſpects to ſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you therein, humbly praying your Lordſhip and Worſhips, and all m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good freinds, in and about <hi>London, Weſtminſter,</hi> and <hi>Southwark,</hi> who hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Right in the ſaid choice, favourably and freely to chooſe and admit hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereunto, who hath ſo faithfully, carefully and induſtriouſly ſerved, we deſerved from, and greatly ſuffered for the Cities intereſt, without a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Reward, and with very hard uſages, as are largely ſet forth in other wr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tings he will preſent unto you. Thus begging your Pardon for this my pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſumption, in all Humility I ſubſcribe my ſelf,</p>
+               <closer>
+                  <signed>
+                     <hi>Your most devoted Friend and Servant,</hi> Tho. Lee. Juſtice of the Peace at <hi>Newington-Butts</hi> in <hi>Surrey.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:110071:9"/>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Names are ſubſcribed Juſtices of the Peace for the County of <hi>Surrey,</hi> and Burrough of <hi>Southwark,</hi> do hereby alſo recommend unto your Choice, and pray your Favours on the behalf of the ſaid Mr. <hi>Rich. Lee</hi> as a<g ref="char:EOLhyphen"/>foreſaid, moſt humbly alſo ſubſcribing our ſelves,</p>
+               <closer>
+                  <signed>
+                     <hi>Your most faithful friends and Servants</hi>
+                     <list>
+                        <item>
+                           <hi>Hunsdon,</hi> the Earl of <hi>Dover's Son.</hi>
+                        </item>
+                        <item>
+                           <hi>Edmund Bowyer</hi> Knight and Barronet.</item>
+                        <item>
+                           <hi>William Haward</hi> Knights.</item>
+                        <item>
+                           <hi>Tho. Foſter</hi> Knights.</item>
+                        <item>
+                           <hi>George Chute</hi>
+                        </item>
+                        <item>
+                           <hi>T. Barker.</hi>
+                        </item>
+                        <item>
+                           <hi>James Reading</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Rich</hi> Juſtices.</item>
+                        <item>
+                           <hi>Rich. How</hi> Juſtices.</item>
+                        <item>
+                           <hi>Joſ. Coling</hi> Juſtices.</item>
+                        <item>
+                           <hi>Jo. Freeman</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Caſtle</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>We whoſe Names are Subſcribed Juſtices of the Peace for the County of <hi>Middleſex</hi> and City of <hi>Weſtminſter,</hi> do alſo recommend unto your Choice, and pray your favour on the behalf of the ſaid Mr. <hi>Richard Lee</hi> as aforeſaid, moſt humbly alſo ſubcribing our ſelves.</p>
+               <closer>
+                  <signed>
+                     <hi>Your faithful friends and ſervants</hi>
+                     <list>
+                        <item>
+                           <hi>Tho. Gery</hi> Knights.</item>
+                        <item>
+                           <hi>Will. Bowle</hi> Knights.</item>
+                        <item>
+                           <hi>Edm. B. Godfrey</hi> Knights.</item>
+                        <item>
+                           <hi>Charles Pitfield</hi> Juſtices.</item>
+                        <item>
+                           <hi>James Deuy</hi> Juſtices.</item>
+                        <item>
+                           <hi>Ellis Lloyd</hi> Juſtices.</item>
+                        <item>
+                           <hi>Edw. Parry</hi> Juſtices.</item>
+                        <item>
+                           <hi>Hum. Weld</hi> Juſtices.</item>
+                        <item>
+                           <hi>Peter Sabbs</hi> Juſtices.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>The ſaid <hi>Rich. Lee</hi> having too late Knowledge of the vacancy of the ſaid Places to make his perſonal Applications to the Commoners of <hi>London,</hi> therefore is forced at great charges to Print and Publiſh abroad among all good Citizens theſe his Requeſts.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:110071:9"/>
+               <head>A true Copy of his Reverſion before mentioned.</head>
+               <p>
+                  <hi>To all Chriſtian People to whom theſe Preſents ſhall come, or that the ſame ſhall hear, ſée o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Read, <hi>Henry Garway Lord Mayor of the City of</hi>
+                  </hi> London, <hi>and the Alder<g ref="char:EOLhyphen"/>men of the ſame, ſend</hi> Greeting; <hi>Know ye,</hi> That at a Court holden in the Chamber of the <hi>Guild Hall</hi> of the ſaid City, upon <hi>Tueſday</hi> the Eight day of <hi>October</hi> laſt paſt, before day of the Date hereof, before Sir <hi>Morris Abbot</hi> Knight, then Lord Mayor of the City of <hi>London,</hi> and the Aldermen of the ſame City then preſent, amongſt other things is En<g ref="char:EOLhyphen"/>tred and Recorded as followeth, <hi>Viz.</hi> This day at the Requeſt of the Right Honourable the Lord Mayor, this Court doth freely and lovingly Give and Grant unto <hi>Richard Lee</hi> Son of <hi>Lancelor Lee</hi> of <hi>Alveley</hi> in the County of <hi>Sallop</hi> 
+                  <abbr>Eſq</abbr> the Reverſion and next A<g ref="char:EOLhyphen"/>voidance of the Clerkship of the Bridge-houſe, at what time ſoever the ſame ſhall firſt and next happen to fall or become void, <hi>To have,</hi> hold, Exerciſe and Enjoy the ſame Place, with all Fees, Profits, and Commodities thereunto due and of Right belonging, ſo long as he ſhall well and honeſtly uſe and behave himſelf therein, ſaving to all and every other per<g ref="char:EOLhyphen"/>ſon and perſons his and their Right and Intereſt in and to the ſame by force and vertue of any former Grant made thereof by this Court, and ſo alwayes and upon condition That he the ſaid <hi>Richard Lee</hi> at ſuch time as he ſhall come to claim and Enjoy the benefit of this his Grant, be thought and adjudged by this Court, fit, apt, and able for the due Execution thereof, and not otherwiſe, <hi>In faith</hi> and testimony whereof, We the ſaid Lord Mayor, and Aldermen have cauſed the Seal of the Office of Mayoralty of the ſaid City to be put to theſe Preſents, <hi>Dated</hi> at <hi>London</hi> the tenth day of <hi>January,</hi> in the year of our Lord <hi>1639.</hi> And in the <hi>15th.</hi> year of the Reign of our Soveraign Lord, <hi>Charles</hi> by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> King, Defender of the Faith &amp;c.</p>
+               <closer>
+                  <signed>Michel.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A true Copy of the Auditors and Committees Certificate before mentioned.</head>
+               <p>To the Right Honourable the Lord Mayor, Aldermen and Commons of the City of <hi>London</hi> in Common Councel Aſſembled. We the Auditors of the Bridge-houſe Ac<g ref="char:EOLhyphen"/>compts and Committees for Leaſing of the Lands and Tenements belonging to the Bridge houſe <hi>London,</hi> whoſe Names are ſubſcribed, do certify that we have peruſed the ſeveral Books and Writings belonging to the ſaid Bridge houſe, written and made up by <hi>Rich. Lee</hi> Clerke there, and do find that there hath been and is a great deal of La<g ref="char:EOLhyphen"/>bour, Pains and Attendants required continually to be by him performed in the Execu<g ref="char:EOLhyphen"/>tion of his ſaid Place, and that all the Fees and Profits now allowed unto him (the Sallery of fifty pounds <hi>per Annum</hi> which was formerly allowed to his Predeceſſors being lately Ordered to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith-held) are very ſmall and do not amount unto a competent mainte<g ref="char:EOLhyphen"/>nance for his ſubſiſtance any wayes equivolent to his Labours, Endeavours and Atten<g ref="char:EOLhyphen"/>dance therein. And do therefore think it Requeſite, Juſt and Reaſonable that he be con<g ref="char:EOLhyphen"/>fidered for the time paſt, and that the ſaid Fee of Fifty pound Pounds a year may be re<g ref="char:EOLhyphen"/>ſtored unto him for the future. All which nevertheleſs we humbly recommend and leave to your Honours and Worſhips Wiſdomes and further Order.</p>
+               <closer>
+                  <dateline>Dated <date>the 25th. day of <hi>May, Anno</hi> 1652.</date>
+                  </dateline>
+                  <signed> 
+                     <list>
+                        <item>John Wollaſton.</item>
+                        <item>John Stone</item>
+                        <item>Fr. Pecke</item>
+                        <item>Henry Brandreth</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:110071:10"/>
+               <head>A true Copy of the Bridgemaſters Certificate before mentioned.</head>
+               <p>We whoſe Names are Subſcribed Wardens of <hi>London Bridge,</hi> do hum<g ref="char:EOLhyphen"/>bly certify on the beha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>Rich. Lee</hi> Clerk Comptroler of the Bridge-houſe, that he together with a Clerk which he keeps and imploy<g ref="char:punc">▪</g> for his aſſiſtance, have taken a great deal of Pains, Labour, and Induſtry in perfor<g ref="char:EOLhyphen"/>mance of his ſaid Place, ſince his admiſſion thereunto, and we do humbly conceive that the Profits he hath received therein have been very ſmall, much beneath his Pains, Endeavours, and attendance therein, and that all the juſt Fees and Profits payd and allow'd to him, cannot nor do amount unto above forty pounds a year one year with another beſides his dwelling houſe, witneſs our Hands <hi>May</hi> 25. 1652.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>Bridgemaſters.</head>
+                        <item>
+                           <hi>Fra. Kirby</hi>
+                        </item>
+                        <item>
+                           <hi>Nich. Clagett</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>And although he had two ſuch Certificates under the hands of the hands of the Bridgehouſe Au<g ref="char:EOLhyphen"/>ditors, Committees and Bridgemaſters twice almoſt every year, for about 9 years toge<g ref="char:EOLhyphen"/>ther, and did preſent his Petition with his Certificates annexed, to the Court of Alder<g ref="char:EOLhyphen"/>men and Common-councel very often every year, for the reſtoration of the antient Salle<g ref="char:EOLhyphen"/>ry of 50 <hi>ll.</hi> a year, and did by great means and endeavours proſecute the ſame, yet could never get the ſame reſtored by reaſon of the Oppoſers and Obſtructors mentioned.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <head>To the Right Honourable Sir <hi>Fran. Chaplin</hi> Kt. Lord Mayor, and to the Right worſhipful the Aldermen, Maſters, Wardens, Aſſiſtants, and Liveries of the ſeveral Companies of the Honourable City of <hi>London.</hi>
+               </head>
+               <p>Whereas <hi>Rich. Lee</hi> late Clerk Comptroler of the Bridgehouſe <hi>London,</hi> and many years aſſociate to the Clerk of Aſſizes of the home Circuite, be<g ref="char:EOLhyphen"/>ing now deſtitute of Imployment for the maintenance of him, his wife and many ſmall Children, is humbly bold to become a ſuitor unto you to chooſe and admit him a Bridgemaſter of <hi>London Bridge,</hi> We whoſe Names are ſubſcribed, upon good grounds and large teſtimonials of his good deſerts, of his care fidelity and good ability to do and perform buſineſs, do therefore hereby recommend him unto your choice, praying your Favours freely to chooſe, and admit him thereunto accordingly, whereof having good hopes we ſubſcribe our ſelves.</p>
+               <closer>
+                  <date>
+                     <hi>May 30. 1678.</hi>
+                  </date>
+                  <signed>
+                     <hi>Your moſt faithful Friends and Servants,</hi>
+                     <list>
+                        <item>
+                           <hi>Fr. North</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Mountague</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Twiſden</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Wilde</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Windham</hi>
+                        </item>
+                        <item>
+                           <hi>Tim. Littleton</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Jones</hi>
+                        </item>
+                        <item>
+                           <hi>Fd. Thurland.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>The ſaid <hi>Rich. Lee</hi> moſt humbly alſo prayes, That no matter in his ſaid Caſe mentio<g ref="char:EOLhyphen"/>ned, may be underſtood as by him intended to Reflect on any worthy Aldermen or Ci<g ref="char:EOLhyphen"/>tizens of <hi>London,</hi> or in a general <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anner; nay he profeſſeth he intends them not to re<g ref="char:EOLhyphen"/>flect on all who were ſeduced in thoſe caſes, but on thoſe who were Seducers, and acted more from a Revengeful, than a juſt and right ſpirit, ſtrangely byaſſed and ſelf-ended.</p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110071:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
